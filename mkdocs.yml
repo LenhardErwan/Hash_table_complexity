@@ -1,0 +1,4 @@
+site_name: Hash table and complexity
+nav:
+  - Home: "index.md"
+  - Analysis: "analysis.md"
